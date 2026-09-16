@@ -44,8 +44,6 @@ Learning.
 
 **Tools**
 - Git
-- Linux
-- Windows
 - Agile / Scrum
 
 ## 💼 Experience
@@ -89,6 +87,4 @@ Master of Computer Applications (MCA)
 - 📧 Email: shreyasin2611@gmail.com
 - 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/shreyasinha2611/)
 
----
 
-⭐ Thanks for visiting my profile!
